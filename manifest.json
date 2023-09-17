@@ -1,0 +1,11 @@
+{
+	"id": "tag_links",
+	"name": "Tag Links",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin highlights & tagify the links configured for.",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/Himanshu54",
+	"fundingUrl": "https://github.com/Himanshu54/obsidian_tag_link",
+	"isDesktopOnly": false
+}
